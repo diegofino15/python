@@ -1,0 +1,15 @@
+{
+    "tiles": {
+        "0": {
+            "type": "TERRAIN",
+            "name": "terrain",
+            "texture": "terrain1.png"
+        },
+
+        "1": {
+            "type": "WALL",
+            "name": "wall",
+            "texture": "wall1.png"
+        }
+    }
+}

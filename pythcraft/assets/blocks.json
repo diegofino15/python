@@ -1,0 +1,72 @@
+{
+    "0": {
+        "name": "grass",
+        "tool": "shovel",
+        "resistance": 1,
+        "tools-to-break": ["hand", "pickaxe", "axe", "shovel"],
+        "drops": [["1.0", 1]],
+
+        "texture": [0, 0],
+        "itemid": 1.0
+    },
+    "1": {
+        "name": "dirt",
+        "tool": "shovel",
+        "resistance": 1,
+        "tools-to-break": ["hand", "pickaxe", "axe", "shovel"],
+        "drops": [["1.1", 1]],
+
+        "texture": [16, 0],
+        "itemid": 1.1
+    },
+    "2": {
+        "name": "stone",
+        "tool": "pickaxe",
+        "resistance": 3,
+        "tools-to-break": ["pickaxe"],
+        "drops": [["1.3", 1]],
+
+        "texture": [32, 0],
+        "itemid": 1.2
+    },
+    "3": {
+        "name": "cobblestone",
+        "tool": "pickaxe",
+        "resistance": 3,
+        "tools-to-break": ["pickaxe"],
+        "drops": [["1.3", 1]],
+
+        "texture": [48, 0],
+        "itemid": 1.3
+    },
+    "4": {
+        "name": "granite",
+        "tool": "pickaxe",
+        "resistance": 3,
+        "tools-to-break": ["pickaxe"],
+        "drops": [["1.4", 1]],
+
+        "texture": [0, 16],
+        "itemid": 1.4
+    },
+    "5": {
+        "name": "wood",
+        "tool": "axe",
+        "resistance": 2,
+        "tools-to-break": ["axe"],
+        "drops": [["1.5", 1]],
+
+        "texture": [16, 16],
+        "itemid": 1.5
+    },
+    "6": {
+        "name": "bedrock",
+        "tool": "",
+        "resistance": 999,
+        "tools-to-break": [],
+        "drops": [],
+
+        "texture": [32, 16],
+        "itemid": 1.6
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0": {
+        "collidable": false,
+        "rigid": false,
+        "visible": true,
+        "texture": "block1.png",
+        "name": "terrain"
+    },
+    "1": {
+        "collidable": true,
+        "rigid": true,
+        "visible": true,
+        "texture": "block2.png",
+        "name": "terrain"
+    }
+}

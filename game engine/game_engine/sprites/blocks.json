@@ -1,0 +1,20 @@
+{
+    "blocks": {
+        "-1": {
+            "tile": "AIR",
+            "texture": null
+        },
+        "0": {
+            "tile": "TERRAIN",
+            "texture": "block1.png"
+        },
+        "1": {
+            "tile": "TERRAIN",
+            "texture": "block3.png"
+        },
+        "2": {
+            "tile": "WALL",
+            "texture": "block2.png"
+        }
+    }
+}
